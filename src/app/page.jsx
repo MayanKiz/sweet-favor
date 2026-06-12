@@ -51,7 +51,7 @@ export default function Home() {
           duration: 0.5,
         }}
         className="fixed bottom-4 right-4 text-sm text-white/30 pointer-events-none z-50 font-light">
-        @rao.m4y4nk 
+        @rao.mayankkk
       </motion.div>
     </div>
   );
