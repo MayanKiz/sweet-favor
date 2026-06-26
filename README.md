@@ -13,50 +13,83 @@ Sweet, simple, and made to bring a smile to someone special ✨
 
 ---
 
-## 🖥 Local Setup
 
-To run this project locally, follow these steps:
+
+
+---
+
+#### 🛠️ Built With
+
+- Next.js
+- Tailwind CSS
+- Framer Motion
+- Lucide Icons
+
+---
+
+## 📦 Installation
+
+1. Clone the repository:
 
 ```bash
-# Clone the repository
-git clone https://github.com/Anuj579/sweet-favor.git
+git clone <repository-url>
+```
 
-# Navigate into the folder
-cd sweet-favor
+2. Navigate to the project folder:
 
-# Install dependencies
+```bash
+cd <project-folder>
+```
+
+3. Install dependencies:
+
+```bash
 npm install
+```
 
-# Start the development server
+4. Start the development server:
+
+```bash
 npm run dev
 ```
 
-Then open [http://localhost:3000](http://localhost:3000) in your browser to explore the site.
+Open `http://localhost:3000` in your browser to view the project.
 
 ---
 
-## 🔗 Social Media
+## 🎨 Customization
 
-Follow me for more emotional surprise websites and creative dev content:
-
-- 📷 Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎬 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
+- **Text:** Edit the content in the components to personalize the website.
+- **Colors:** Modify Tailwind utility classes or update the theme configuration.
+- **Images:** Replace the existing images with your own assets.
 
 ---
 
-## ⭐ Support
+## 🚀 Deployment
 
-If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
-Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@anujbuilds_
+### Deploy on Vercel
 
-✨ If you'd like to support my work directly, you can donate via UPI:  
-**anujbuilds.wallet@phonepe**  
-Even a small contribution helps me keep creating cute, emotional projects 💖
+1. Push your project to GitHub.
+2. Sign in to Vercel.
+3. Click **New Project**.
+4. Import your GitHub repository.
+5. Keep the default Next.js settings.
+6. Click **Deploy**.
+
+### Deploy on Netlify
+
+1. Push your project to GitHub.
+2. Sign in to Netlify.
+3. Click **Add New Site** → **Import from Git**.
+4. Select your repository.
+5. Use the following build settings:
+   - **Build Command:** `npm run build`
+   - **Publish Directory:** `.next`
+6. Deploy the site.
 
 ---
+
+Thank you for using this project! If you find it useful, consider giving it a ⭐ on GitHub.
 
 ## ⚠️ License & Usage
 
